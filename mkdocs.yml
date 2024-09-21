@@ -1,0 +1,4 @@
+site_name: ECS Wiki
+nav:
+  - main: index.md
+  - dev: dev.md
